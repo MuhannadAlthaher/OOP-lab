@@ -13,6 +13,6 @@ class Employee {
 
   void empPrint() {
     print(
-        "Name:\n$name ID:\n$id\nPossition:$possition\nBirth day:$birthday\n Salary:\n$salary");
+        "Name:$name \nID:$id\nPossition:$possition\nBirth day:$birthday\n Salary:\n$salary");
   }
 }
