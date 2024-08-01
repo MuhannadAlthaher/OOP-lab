@@ -1,9 +1,9 @@
 import 'dart:io';
 
-class positionn {
+class positionN {
   String title;
-  String privlages;
+  String privileges;
 
-  positionn(this.title, this.privlages);
+  positionN(this.title, this.privileges);
 
 }
