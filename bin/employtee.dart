@@ -9,7 +9,7 @@ class Employee {
       required this.salary,
       required this.id});
 
-  void empprint() {
-    print("name $name id$id birthday $birthday salary $salary id $id");
+  void empPrint() {
+    print("Name:\n$name ID:\n$id Birthday:\n$birthday Salary:\n$salary");
   }
 }
