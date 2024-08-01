@@ -3,7 +3,7 @@ class Managmanet {
   late String name;
   Managmanet({required this.id, required this.name});
 
-  void mangPrin() {
+  void mangPrint() {
     print("ID:$id\nName:$name\n");
   }
 }
